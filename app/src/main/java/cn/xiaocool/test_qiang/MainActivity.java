@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private String jdfkj;
     private String asdj;
     private String zsq;
+    private String zsq2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
