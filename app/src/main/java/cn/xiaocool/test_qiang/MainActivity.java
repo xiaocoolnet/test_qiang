@@ -15,11 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private String thb;
     private String thb2;
     private String zsq2;
-
-
-
-
-
+    private String thb3;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
